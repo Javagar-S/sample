@@ -1,107 +1,28 @@
+🌟 Copy this NEON HEADER (Best Version)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&pause=2000&color=00FFB3&center=true&vCenter=true&width=600&lines=CropGuard+AI+%F0%9F%8C%B1" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🌱%20CropGuard%20AI&width=800&height=150&fontSize=48" />
+</p>
+🔥 If you want a PURE NEON GLOW (Cleaner + FAANG style)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00FFB3,100:059669&height=180&section=header&text=CropGuard%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+</p>
+💎 ULTRA-PREMIUM (Neon + Tech Gradient)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FFB3,100:2c5364&height=200&section=header&text=🌱%20CropGuard%20AI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</p>
+🎯 My Recommendation (Don’t overdo it)
+
+Use this combo:
+
+✅ Neon header (capsule-render)
+✅ Typing animation below it (optional)
+
+Example:
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00FFB3,100:2c5364&height=200&section=header&text=🌱%20CropGuard%20AI&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
 
-## ⚡ System Workflow
-
-```text
-        📷 User Upload
-              │
-              ▼
-     ┌──────────────────┐
-     │  TTA Engine 🔁   │
-     │ (Augmentations)  │
-     └──────────────────┘
-              │
-              ▼
-     ┌──────────────────┐
-     │  DL Model 🧠     │
-     │ EfficientNetB0   │
-     └──────────────────┘
-              │
-              ▼
-     ┌──────────────────┐
-     │ Confidence Check │
-     │   ≥ 75% ✅       │
-     └──────────────────┘
-              │
-      ┌───────┴────────┐
-      ▼                ▼
-✅ Valid Result    ❌ Reject Image
-      │
-      ▼
-📊 Report + 🌦 Weather + 🔊 Voice
-
-
-
-
-👉 This gives **architecture clarity instantly**
-
----
-
-# 🎥 REPLACE SCREENSHOTS WITH GIF (VERY IMPORTANT)
-
-Right now:
-> Static images ❌
-
-Upgrade to:
-> GIF demo ✅
-
-### 🔥 How to do:
-1. Record your app using:
-   - OBS Studio / ScreenToGif
-2. Convert to `.gif`
-3. Upload to `images/demo.gif`
-
-### Then replace your screenshot section with:
-
-```markdown
-## 🎬 Live Demo
-
-<div align="center">
-
-<img src="https://github.com/Javagar-S/crop-disease-prediction-ml/blob/main/images/demo.gif" width="90%" />
-
-</div>
 <p align="center">
-
-<img src="https://img.shields.io/badge/Model-98.5%25%20Accuracy-brightgreen?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Production%20Ready-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Latency-~2s-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API-OpenMeteo-success?style=for-the-badge"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00FFB3&center=true&vCenter=true&width=600&lines=AI-Powered+Crop+Disease+Detection" />
 </p>
-
-<details>
-<summary><b>🧠 Advanced Technical Details (Click to Expand)</b></summary>
-
-<br>
-
-- Transfer Learning with EfficientNetB0
-- Dual-phase training strategy
-- Class imbalance handled via weighted loss
-- TTA-based inference stabilization
-- Real-time weather integration via API
-- Voice synthesis using Web Speech API
-
-</details>
-## 🧪 Engineering Philosophy
-
-> “Designed for real-world uncertainty, not just dataset accuracy.”
-
-- Built with **robust inference pipelines**
-- Focused on **practical deployment**
-- Optimized for **low-resource environments**
-- Designed with **farmer usability in mind**
-
-
----
-
-<div align="center">
-
-### 🚀 Built with Passion for AI in Agriculture
-
-⭐ Star this repo if you found it useful  
-🤝 Open for collaborations  
-
-</div>
