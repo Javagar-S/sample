@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00FFB3&center=true&vCenter=true&width=900&lines=CropGuard+AI+%F0%9F%8C%B1;Real-Time+Crop+Disease+Detection;Deep+Learning+%7C+Flask+%7C+Computer+Vision;Built+for+Precision+Agriculture" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=4000&pause=2000&color=00FFB3&center=true&vCenter=true&width=600&lines=CropGuard+AI+%F0%9F%8C%B1" />
 </p>
 
 ## ⚡ System Workflow
